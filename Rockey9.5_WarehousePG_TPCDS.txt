@@ -1,4 +1,4 @@
-Rockey 9.x 버전에서 Greenplum TPC-DS 컴파일시 에러 발생 원인 및 조치 방법
+Rockey 9.x 버전에서 WarehousePG TPC-DS 컴파일시 에러 발생 원인 및 조치 방법
 
 1. 개요 
    - Rockey 8.x 에서는 gcc 8.x를 이용하여 컴파일하는데, Rockey 9.5 에서는 gcc 11.5를 이용하여 컴파일
