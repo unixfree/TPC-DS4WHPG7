@@ -453,7 +453,7 @@ const char * const yyrule[] = {
 #endif
 #endif
 #define YYINITSTACKSIZE 200
-int yydebug;
+extern int yydebug;
 int yynerrs;
 int yyerrflag;
 int yychar;

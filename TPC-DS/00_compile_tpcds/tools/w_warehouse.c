@@ -50,7 +50,7 @@
 #include "nulls.h"
 #include "tdefs.h"
 
-struct W_WAREHOUSE_TBL g_w_warehouse;
+extern struct W_WAREHOUSE_TBL g_w_warehouse;
 
 /*
 * mk_warehouse

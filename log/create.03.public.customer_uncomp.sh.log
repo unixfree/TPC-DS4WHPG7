@@ -1,3 +1,0 @@
-create table public.customer_uncomp as select * from tpcds.customer distributed randomly;
-SELECT 30000000
-create.03.public.customer_uncomp.sh|2024-04-09 05:28:03|2024-04-09 05:28:14|11

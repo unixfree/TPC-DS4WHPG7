@@ -11,8 +11,9 @@ export PGPORT="5432"
 # https://www.postgresql.org/docs/current/libpq-envars.html
 
 # benchmark options
-export GEN_DATA_SCALE="3000"
-export MULTI_USER_COUNT="5"
+#export GEN_DATA_SCALE="3000"
+export GEN_DATA_SCALE="500"
+export MULTI_USER_COUNT="2"
 export RNGSEED="1"
 export HEAP_ONLY="false"
 

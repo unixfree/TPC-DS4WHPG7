@@ -1,3 +1,0 @@
-create table public.web_returns_uncomp as select * from tpcds.web_returns distributed randomly;
-SELECT 216004538
-create.07.public.web_returns_uncomp.sh|2024-04-09 05:28:03|2024-04-09 05:29:02|59

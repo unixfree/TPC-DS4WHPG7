@@ -1,3 +1,0 @@
-create table public.catalog_sales_uncomp as select * from tpcds.catalog_sales distributed randomly;
-SELECT 4320024860
-create.02.public.catalog_sales_uncomp.sh|2024-04-09 05:28:03|2024-04-09 05:41:04|781

@@ -49,7 +49,7 @@
 #include "nulls.h"
 #include "tdefs.h"
 
-struct CATALOG_PAGE_TBL g_w_catalog_page;
+extern struct CATALOG_PAGE_TBL g_w_catalog_page;
 
 /*
 * Routine: mk_catalog_page()
